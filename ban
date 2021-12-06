@@ -2,7 +2,7 @@ repeat wait() until game:IsLoaded()
 BanID = {
     3089437768,
     1230146812,
-
+    3079584312,
 }
 
 if table.find(BanID, game.Players.LocalPlayer.UserId) then
